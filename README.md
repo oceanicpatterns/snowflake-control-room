@@ -1,2 +1,2 @@
 # snowflake-control-room
-Helping users familiarising with Snowflake, Snowpark and best practices
+Helping users building their data symphony with Snowflake and Snowpark
